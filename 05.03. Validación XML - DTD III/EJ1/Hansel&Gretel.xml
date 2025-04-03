@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: [Alejandro González Galindo] 
+Curso: [Asir] 
+Fecha: [3/4/2025] 
+Ejercicio: [Cuentos] 
+-->
 <!DOCTYPE cuento SYSTEM "cuentos.dtd">
 <cuento cod="H01" titulo="Hansel y Gretel" genero="fantasía">
     <personajes>
