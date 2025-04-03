@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuento SYSTEM "cuentos.dtd">
+<cuento cod="C02" titulo="Caperucita Roja" genero="infantil">
+    <personajes>
+        <personaje id="p1" tipo="principal">
+            <nombre>Caperucita Roja</nombre>
+            <genero>F</genero>
+            <descripcion>Niña vestida con una capa roja que visita a su abuela.</descripcion>
+        </personaje>
+        <personaje id="p2" tipo="secundario">
+            <nombre>Abuela</nombre>
+            <genero>F</genero>
+        </personaje>
+        <personaje id="p3" tipo="antagonista">
+            <nombre>Lobo</nombre>
+            <genero>M</genero>
+            <descripcion>Lobo feroz que engaña a Caperucita.</descripcion>
+        </personaje>
+    </personajes>
+    <trama>
+        Caperucita Roja visita a su abuela y se encuentra con un lobo que la engaña disfrazado de ella.
+    </trama>
+    <precio>12.50</precio>
+</cuento>
