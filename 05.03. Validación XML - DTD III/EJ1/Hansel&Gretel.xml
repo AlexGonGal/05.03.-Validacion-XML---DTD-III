@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuento SYSTEM "cuentos.dtd">
+<cuento cod="H01" titulo="Hansel y Gretel" genero="fantasía">
+    <personajes>
+        <personaje id="p1" tipo="principal">
+            <nombre>Hansel</nombre>
+            <genero>M</genero>
+            <descripcion>Un niño astuto y valiente.</descripcion>
+        </personaje>
+        <personaje id="p2" tipo="principal">
+            <nombre>Gretel</nombre>
+            <genero>F</genero>
+            <descripcion>Hermana de Hansel, ingeniosa y valiente.</descripcion>
+        </personaje>
+        <personaje id="p3" tipo="antagonista">
+            <nombre>Bruja</nombre>
+            <genero>F</genero>
+            <descripcion>Anciana malvada que vive en una casa de dulces.</descripcion>
+        </personaje>
+    </personajes>
+    <trama>
+        Hansel y Gretel son abandonados en el bosque y encuentran una casa de dulces habitada por una bruja.
+    </trama>
+    <etiqueta nombre="cuento popular"/>
+    <precio moneda="eur">10.50</precio>
+</cuento>
